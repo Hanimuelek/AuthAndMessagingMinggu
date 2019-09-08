@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122124755837",
+    "firebase_url": "https://authandmessaging-c3423.firebaseio.com",
+    "project_id": "authandmessaging-c3423",
+    "storage_bucket": "authandmessaging-c3423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122124755837:android:123bec44041690f46ee214",
+        "android_client_info": {
+          "package_name": "com.dycode.edu.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122124755837-pip6gjarutvqgatsgvfn60s6fuam562l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dycode.edu.auth",
+            "certificate_hash": "ee9c76dc091540101e56366f8906fb2b92acd6f9"
+          }
+        },
+        {
+          "client_id": "122124755837-3a05284t9dn4q1t9mdb9fam5cov3er0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSIw0qEB0m4ldh7YH8dx4cj-0xXD0P_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122124755837-3a05284t9dn4q1t9mdb9fam5cov3er0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

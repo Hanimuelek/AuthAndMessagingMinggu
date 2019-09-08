@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuthAndMessaging</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="fcm_message">Auth and Messaging</string>
+</resources>
